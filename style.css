@@ -158,22 +158,6 @@ a {
     text-align:center;
     color: #000000;
     margin:30px 40px;
-  
-  }
-
-  .fab fa-instagram fa-3x{
-    font-size: 3em; 
-    color: Tomato;
-  }
-
-  .fab fa-linkedin fa-3x{
-    font-size: 3em; 
-    color: Tomato;
-  }
-
-  .fab fa-twitter fa-3x{
-    font-size: 3em; 
-    color: Tomato;
   }
 
   contact-menu{
@@ -186,6 +170,15 @@ a {
   
   contact-info a {
     color: #000000;
+  }
+
+  .contact-projects {
+    background-color: #1480c9ea;
+    width: 100%;
+    height: 40%;
+    color: #ffffffea;
+    text-align: center;
+    padding: 0;
   }
 
   footer {
